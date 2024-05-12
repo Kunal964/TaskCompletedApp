@@ -2,5 +2,5 @@
     <string name="app_name">TaskCompleted</string>
     <!-- Task Completed Screen -->
     <string name="all_task_completed">All tasks completed</string>
-    <string name="nice_work">Nice work!</string>
+    <string name="nice_work">Good Job!</string>
 </resources>
